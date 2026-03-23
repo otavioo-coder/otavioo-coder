@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hey there!
 
-<!--
-**otavioo-coder/otavioo-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Otto, an aspiring software engineer from Brazil.
 
-Here are some ideas to get you started:
+I like building things and turning ideas into real projects.  
+Right now, I'm focused on learning and improving every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tools are HTML, CSS, and JavaScript.  
+I'm currently working on projects to strengthen my fundamentals and expand into more advanced technologies.
+
+If I have an idea, I try to build it and learn from the process.
+
+My goal is to gain real-world experience, grow as a developer, and eventually work professionally in software engineering.
