@@ -1,13 +1,56 @@
-👋 Hey there!
+# Hey there! 👋 I'm Otávio
 
-I'm Otto, an aspiring software engineer from Brazil.
+### Software Engineering Student | Python Developer | Backend Development & Machine Learning
 
-I like building things and turning ideas into real projects.  
-Right now, I'm focused on learning and improving every day.
+I'm a Software Engineering student passionate about software development, backend engineering, databases, and machine learning.
 
-My main tools are HTML, CSS, and JavaScript.  
-I'm currently working on projects to strengthen my fundamentals and expand into more advanced technologies.
+I work primarily with Python and its ecosystem, building backend applications, developing REST APIs, working with relational databases, and exploring data analysis and machine learning.
 
-If I have an idea, I try to build it and learn from the process.
+I'm constantly learning, improving my problem-solving skills, and expanding my knowledge of software engineering through practical projects.
 
-My goal is to gain real-world experience, grow as a developer, and eventually work professionally in software engineering.
+## 🛠️ Tech Stack
+
+**Languages & Databases**
+- Python
+- SQL
+- PostgreSQL
+
+**Backend Development**
+- FastAPI
+- REST APIs
+- JWT Authentication
+
+**Data Science & Machine Learning**
+- Pandas
+- Scikit-learn
+
+**Tools & Operating Systems**
+- Git
+- GitHub
+- Linux
+
+## 🎯 Areas of Interest
+
+- Backend Development
+- API Design and Development
+- Database Management
+- Data Analysis
+- Machine Learning
+- Software Engineering
+
+## 📚 Currently Focused On
+
+- Building backend applications with Python and FastAPI.
+- Improving database design and SQL skills.
+- Developing secure APIs with JWT authentication.
+- Exploring machine learning techniques with Scikit-learn.
+- Writing clean, maintainable, and efficient code.
+
+## 📫 Let's Connect
+
+- **GitHub:** [@otavioo-coder](https://github.com/otavioo-coder)
+- **LinkedIn:** Add your LinkedIn profile URL here.
+
+---
+
+*Always learning, always building.* 🚀
